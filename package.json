@@ -1,8 +1,6 @@
 {
-  "scripts": {
-    "demo": "node hello.js"
-  },
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "yamljs": "^0.3.0"
   }
 }
